@@ -1,0 +1,15 @@
+
+
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+}
+.shopping-cart{
+  justify-content: space-between;
+  background-color: #61daba;
+  padding: 20px 30px;
+  /* font-size: 26px; */
+}
+.product-item{
+  padding: 20px;
+}
